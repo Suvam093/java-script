@@ -1,20 +1,20 @@
 console.log(5);
 
-// const rectangle= {
-//     length:4,
-//     breadth:7,
+const rectangle= {
+    length:4,
+    breadth:7,
 
-//     draw: function() {
-//         console.log('rectangle');
+    draw: function() {
+        console.log('rectangle');
 
-//     }
+    }
 
-// };
-// let a={  
-//     draw2: function() {
-//     console.log('rectangle');
-//     }
-// }
+};
+let l={  
+    draw2: function() {
+    console.log('rectangle');
+    }
+}
 
 
 // factory function
